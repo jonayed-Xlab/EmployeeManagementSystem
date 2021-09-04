@@ -1,0 +1,6 @@
+package com.employee.management.exeption;
+
+public class ResourceNotFoundExeption extends RuntimeException{
+	
+
+}

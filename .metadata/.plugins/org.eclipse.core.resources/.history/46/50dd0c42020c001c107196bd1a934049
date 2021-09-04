@@ -1,0 +1,9 @@
+package com.employee.management;
+
+public class Snippet {
+	
+	spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDialect
+	
+	spring.jpa.hibernate.ddl-auto = update
+}
+
